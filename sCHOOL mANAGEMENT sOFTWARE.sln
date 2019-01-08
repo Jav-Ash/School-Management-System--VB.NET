@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sCHOOL mANAGEMENT sOFTWARE", "sCHOOL mANAGEMENT sOFTWARE\sCHOOL mANAGEMENT sOFTWARE.vbproj", "{1E2AB989-4C07-41F2-8198-84DEF2F3BBC9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Mehsinstaller", "Mehsinstaller\Mehsinstaller.vdproj", "{3C84ACD2-304F-4AFA-A0B3-E85AC1B512E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2AB989-4C07-41F2-8198-84DEF2F3BBC9}.Debug|x86.ActiveCfg = Debug|x86
+		{1E2AB989-4C07-41F2-8198-84DEF2F3BBC9}.Debug|x86.Build.0 = Debug|x86
+		{1E2AB989-4C07-41F2-8198-84DEF2F3BBC9}.Release|x86.ActiveCfg = Release|x86
+		{1E2AB989-4C07-41F2-8198-84DEF2F3BBC9}.Release|x86.Build.0 = Release|x86
+		{3C84ACD2-304F-4AFA-A0B3-E85AC1B512E7}.Debug|x86.ActiveCfg = Debug
+		{3C84ACD2-304F-4AFA-A0B3-E85AC1B512E7}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
